@@ -1,5 +1,6 @@
 {
     "show_video" : true,
+    "play_sound" : true,
     "camera_warmup_time" : 3,
     "delta_thresh" : 5,
     "resolution" : [640, 480],
